@@ -32,6 +32,7 @@ Kill Running Discord
 
 
 📂 Installation Path
+
 Using Git clone in your ~ directory will provide installation of Discord in this directory: 
 ```bash
 $HOME/DiscordForLinux./Discord
