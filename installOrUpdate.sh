@@ -1,7 +1,7 @@
 #!/bin/bash
 rm -rf "$DEST/Discord" >/dev/null 2>&1
 URL="https://discord.com/api/download?platform=linux&format=tar.gz"
-DEST="$HOME/Discord"
+DEST="$HOME/DiscordForLinux."
 ARCHIVE="$HOME/discord.tar.gz"
 
 echo "[*] Downloading Discord..."
