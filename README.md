@@ -19,7 +19,7 @@ chmod +x *
 
 Install or Update Discord
 ```bash
-/installOrUpdate.sh
+./installOrUpdate.sh
 ```
 Run Discord
 ```bash
